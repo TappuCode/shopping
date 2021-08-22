@@ -59,8 +59,8 @@ I have created 5 Page Object class and 5 Test call to test each page
 * CheckoutAction
 
 ## Config File
-Config property file is under shopping\src\main\java\com\seleniumdemo\automation\shopping\config folder
+Config property file is under shopping\shopping\src\main\java\com\seleniumdemo\automation\shopping\config folder
 
 ## Test Execution Result
 
-![](shopping\src\main\java\com\seleniumdemo\automation\shopping\resource\ExecutionResult.PNG)
+![](shopping\shopping\src\main\java\com\seleniumdemo\automation\shopping\resource\ExecutionResult.PNG)
