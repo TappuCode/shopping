@@ -59,7 +59,7 @@ I have created 5 Page Object class and 5 Test call to test each page
 * CheckoutAction
 
 ## Config File
-Config property file is under shopping\shopping\src\main\java\com\seleniumdemo\automation\shopping\config folder
+[Config property file](https://github.com/TappuCode/shopping/blob/main/shopping/src/main/java/com/seleniumdemo/automation/shopping/config/config.properties) is under shopping\shopping\src\main\java\com\seleniumdemo\automation\shopping\config folder
 
 ## Test Execution Result
 
