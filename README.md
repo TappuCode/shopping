@@ -22,7 +22,7 @@
 </details>
 
 ## Project Details
-This is Selenium Demo automation project. I have used [Page object model](https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/) design pattern and PageFactory. Project can build using maven. These selenium tests can be run using TestNG testing framework. I have made assumption that user account already existing and add details in config property file
+This is Selenium Demo automation project. I have used [Page object model](https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/) design pattern and PageFactory. Project can build using maven. These selenium tests can be run using TestNG testing framework. **I have made assumption that user account already existing and added account details in config property file**
 
 ### Framework used
 I have used following major framework to build this project.
